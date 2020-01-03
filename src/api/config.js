@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const baseUrl = 'http://localhost:3001';
+export const baseUrl = 'https://pure-falls-89574.herokuapp.com/';
 
 //axios 的实例及拦截器配置
 const axiosInstance = axios.create ({
